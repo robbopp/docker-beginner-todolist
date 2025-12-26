@@ -34,6 +34,6 @@ docker compose up -d
 
 4. Stop the app:
 
-   ```bash
-   docker compose down
-   ```
+```bash
+docker compose down
+```
